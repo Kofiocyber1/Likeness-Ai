@@ -1,0 +1,7 @@
+{
+  "name": "Aegis IP Guardian",
+  "description": "The Uber of Intellectual Property. Scan, protect, and monetize your digital likeness and code against unauthorized AI usage.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
